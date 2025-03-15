@@ -1,5 +1,5 @@
 ﻿# Bob Ross Progressive GAN
-![alt text](https://github.com/Ciapser/Bob-Ross-Progressive-Gan/blob/master/Github_Readme_files/Thumbnail_img.png?raw=true)
+![alt text](https://github.com/Se-Boruk/Bob-Ross-Progressive-Gan/blob/master/Github_Readme_files/Thumbnail_img.png?raw=true)
 
 This project aims to allow computer have their own joy of painting, and allow them to paint their "happy little tree".
 
@@ -62,10 +62,10 @@ generated images.
 
 ### Generator outputs:
 There are some of randomly generated images from the generator
-![alt text](https://github.com/Ciapser/Bob-Ross-Progressive-Gan/blob/master/Github_Readme_files/Generated_imgs_checkboard_1.png?raw=true)
+![alt text](https://github.com/Se-Boruk/Bob-Ross-Progressive-Gan/blob/master/Github_Readme_files/Generated_imgs_checkboard_1.png?raw=true)
 
 
-![alt text](https://github.com/Ciapser/Bob-Ross-Progressive-Gan/blob/master/Github_Readme_files/Generated_imgs_checkboard_2.png?raw=true)
+![alt text](https://github.com/Se-Boruk/Bob-Ross-Progressive-Gan/blob/master/Github_Readme_files/Generated_imgs_checkboard_2.png?raw=true)
 
 As you can see there are visible some artifacts or abstract views on images, however other images represents quite good quality and are very pleasent to the eye. 
 Even better results will be probably obtained if bigger dataset would be used.
@@ -77,13 +77,13 @@ Here is my interpretation of landscapes over time:
 Bayou sunset --> Mountain lake --> Bigger mountain lake --> 
 High mountains --> Waves --> Snow plains --> Bayou sunset
 
-![alt text](https://github.com/Ciapser/Bob-Ross-Progressive-Gan/blob/master/Github_Readme_files/Model_interpolation.gif?raw=true)
+![alt text](https://github.com/Se-Boruk/Bob-Ross-Progressive-Gan/blob/master/Github_Readme_files/Model_interpolation.gif?raw=true)
 
 ### Generator training:
 Here is representation of generator outputs over training in every resolution and phase. Output was based on the constant, not changed input.
 
 Starting resolution is 4x4 and it goes up to 256x256 through total amount of 2k epochs.
-![alt text](https://github.com/Ciapser/Bob-Ross-Progressive-Gan/blob/master/Github_Readme_files/Full_train_gif.gif?raw=true)
+![alt text](https://github.com/Se-Boruk/Bob-Ross-Progressive-Gan/blob/master/Github_Readme_files/Full_train_gif.gif?raw=true)
 
 
 ## Possible future goals:
