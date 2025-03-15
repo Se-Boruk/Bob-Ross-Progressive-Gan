@@ -1,0 +1,20 @@
+# Ignore everything in these directories
+__pycache__/*
+Images/Gif_Data/*
+Images/Gif/*
+Models/*
+
+
+#Ignore these files
+Bob_Ross_Filtered.npy
+constant_noise.npy
+Generated_images.npy
+
+training_monitor.log
+
+#Exclude these files from being ignored
+!/Models/download_link.txt
+
+
+
+
